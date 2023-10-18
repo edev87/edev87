@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edev87&label=Profile%20views&color=0e75b6&style=flat" alt="edev87" /> </p>
 
-- 🌱 I’m currently learning **React, Blockchain**
+- 🌱 I’m currently learning **.NET tech stack, React, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://edev.netlify.app/](https://edev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://edevportfolio.netlify.app/](https://edevportfolio.netlify.app/)
 
 - 📫 How to reach me **ernestdicks015@gmail.com**
 
